@@ -1,0 +1,1093 @@
+{
+  "labels": [
+    "table",
+    "shelf",
+    "chair",
+    "sofa",
+    "tv",
+    "food",
+    "drink"
+  ],
+  "elements": [
+    {
+      "id": "e4",
+      "label": "tv",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          1.7423225441912784,
+          1.113346724261083
+        ]
+      ],
+      "heading": 1.5600336375531523,
+      "role": "location",
+      "polygon": [
+        [
+          1.0786900170228115,
+          1.9289904466032848
+        ],
+        [
+          2.4479046932211226,
+          1.9289904466032848
+        ],
+        [
+          2.4479046932211226,
+          1.661423766815437
+        ],
+        [
+          1.0786900170228115,
+          1.661423766815437
+        ]
+      ],
+      "name": "tv",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e5",
+      "label": "living_room",
+      "type": "waypoint",
+      "semType": "area",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          2.890000772779443,
+          -0.6762224207381466
+        ]
+      ],
+      "heading": -1.5835059091802826,
+      "role": "room",
+      "polygon": [
+        [
+          0.6674975669672456,
+          1.9413732068582572
+        ],
+        [
+          5.083987572341634,
+          1.9413732068582572
+        ],
+        [
+          5.083987572341634,
+          -3.22537867333455
+        ],
+        [
+          0.6674975669672456,
+          -3.22537867333455
+        ]
+      ],
+      "name": "living_room",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e6",
+      "label": "entrance",
+      "type": "waypoint",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          0.5685930379036286,
+          -0.07789201847266192
+        ]
+      ],
+      "heading": -0.009049526713784214,
+      "role": "door",
+      "polygon": [],
+      "name": "entrance",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": 1,
+      "present": true
+    },
+    {
+      "id": "e9",
+      "label": "kitchen_room",
+      "type": "waypoint",
+      "semType": "area",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          6.140341815683804,
+          -0.9011298324811179
+        ]
+      ],
+      "heading": -0.023834013315576642,
+      "role": "room",
+      "polygon": [
+        [
+          5.087525527810488,
+          1.932114712324891
+        ],
+        [
+          9.57362745971442,
+          1.932114712324891
+        ],
+        [
+          9.57362745971442,
+          -3.4283399199501225
+        ],
+        [
+          5.087525527810488,
+          -3.4283399199501225
+        ]
+      ],
+      "name": "kitchen_room",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e10",
+      "label": "bed",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          6.584436271808677,
+          3.5468024921501335
+        ]
+      ],
+      "heading": -1.6390430172831645,
+      "role": "location",
+      "polygon": [
+        [
+          5.102286442097746,
+          3.007887781484291
+        ],
+        [
+          7.306356865983108,
+          3.007887781484291
+        ],
+        [
+          7.306356865983108,
+          1.9058525695416098
+        ],
+        [
+          5.102286442097746,
+          1.9058525695416098
+        ]
+      ],
+      "name": "bed",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e11",
+      "label": "bedroom",
+      "type": "waypoint",
+      "semType": "area",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          7.331971623894358,
+          3.8502657083490455
+        ]
+      ],
+      "heading": -1.9571334163938763,
+      "role": "room",
+      "polygon": [
+        [
+          9.585371387336334,
+          1.9571817928944935
+        ],
+        [
+          5.146349985452382,
+          1.9571817928944935
+        ],
+        [
+          5.146349985452382,
+          5.635896498803591
+        ],
+        [
+          9.585371387336334,
+          5.635896498803591
+        ]
+      ],
+      "name": "bedroom",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e14",
+      "label": "dishwasher",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          8.572429061786227,
+          -2.3001197986564286
+        ]
+      ],
+      "heading": -1.5707963267948966,
+      "role": "location",
+      "polygon": [
+        [
+          8.233456111161225,
+          -2.7604373781193186
+        ],
+        [
+          8.941202421512788,
+          -2.7604373781193186
+        ],
+        [
+          8.941202421512788,
+          -3.42795654472088
+        ],
+        [
+          8.233456111161225,
+          -3.42795654472088
+        ]
+      ],
+      "name": "dishwasher",
+      "room": "kitchen_room",
+      "category": "",
+      "z": 0.685,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e15",
+      "label": "sink",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          6.244642947838123,
+          -2.1950091715288753
+        ]
+      ],
+      "heading": -1.5707963267948966,
+      "role": "location",
+      "polygon": [
+        [
+          5.43577867421331,
+          -2.7588032961066524
+        ],
+        [
+          6.993318402460851,
+          -2.7588032961066524
+        ],
+        [
+          6.993318402460851,
+          -3.426320322498455
+        ],
+        [
+          5.43577867421331,
+          -3.426320322498455
+        ]
+      ],
+      "name": "sink",
+      "room": "kitchen_room",
+      "category": "",
+      "z": 0.68,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e18",
+      "label": "shelf",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          6.048953985268135,
+          1.2390949727472869
+        ]
+      ],
+      "heading": -3.123503650703838,
+      "role": "location",
+      "polygon": [
+        [
+          5.086634987890015,
+          1.716732001853794
+        ],
+        [
+          5.540573163143918,
+          1.716732001853794
+        ],
+        [
+          5.540573163143918,
+          0.8493342147444221
+        ],
+        [
+          5.086634987890015,
+          0.8493342147444221
+        ]
+      ],
+      "name": "shelf",
+      "room": "kitchen_room",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e23",
+      "label": "exit",
+      "type": "waypoint",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          0.652645523255412,
+          3.994666123188468
+        ]
+      ],
+      "heading": -3.1408966629898765,
+      "role": "door",
+      "polygon": [],
+      "name": "exit",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": 1,
+      "present": true
+    },
+    {
+      "id": "e28",
+      "label": "refrigerator",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          8.399375147202814,
+          1.2590975301561347
+        ]
+      ],
+      "heading": 0,
+      "role": "location",
+      "polygon": [
+        [
+          8.891808579660417,
+          1.5506415654515546
+        ],
+        [
+          9.569384532199479,
+          1.5506415654515546
+        ],
+        [
+          9.569384532199479,
+          0.9547769986546815
+        ],
+        [
+          8.891808579660417,
+          0.9547769986546815
+        ]
+      ],
+      "name": "refrigerator",
+      "room": "kitchen_room",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e29",
+      "label": "laundry",
+      "type": "waypoint",
+      "semType": "area",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          2.855473732742624,
+          3.7581904443017575
+        ]
+      ],
+      "heading": 1.5499264748761181,
+      "role": "room",
+      "polygon": [
+        [
+          0.6184009807623205,
+          5.5537334851129305
+        ],
+        [
+          5.098361973968,
+          5.5537334851129305
+        ],
+        [
+          5.098361973968,
+          1.9452009357553504
+        ],
+        [
+          0.6184009807623205,
+          1.9452009357553504
+        ]
+      ],
+      "name": "laundry",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e30",
+      "label": "washing_machine",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          3.6157320159646176,
+          4.416723429807023
+        ]
+      ],
+      "heading": 1.5707963267948966,
+      "role": "location",
+      "polygon": [
+        [
+          3.841327914718601,
+          4.9008449691751235
+        ],
+        [
+          3.1748772816229014,
+          4.9008449691751235
+        ],
+        [
+          3.1748772816229014,
+          5.55139330950715
+        ],
+        [
+          3.841327914718601,
+          5.55139330950715
+        ]
+      ],
+      "name": "washing_machine",
+      "room": "laundry",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e31",
+      "label": "table_3",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          2.099877136507846,
+          4.448518493885194
+        ]
+      ],
+      "heading": 1.548243760144593,
+      "role": "location",
+      "polygon": [
+        [
+          1.4814225142988597,
+          5.545776694578555
+        ],
+        [
+          2.66180633625687,
+          5.545776694578555
+        ],
+        [
+          2.66180633625687,
+          4.91568448539252
+        ],
+        [
+          1.4814225142988597,
+          4.91568448539252
+        ]
+      ],
+      "name": "table_3",
+      "room": "laundry",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e34",
+      "label": "no-go",
+      "type": "nogo",
+      "closed": true,
+      "asNogo": false,
+      "coords": [
+        [
+          1.558485442229518,
+          5.027981725531676
+        ],
+        [
+          2.6089823211357697,
+          5.030167983344176
+        ],
+        [
+          2.61116857894827,
+          5.5100515731879245
+        ],
+        [
+          1.5267847039482696,
+          5.5187966044379255
+        ]
+      ]
+    },
+    {
+      "id": "e36",
+      "label": "no-go",
+      "type": "nogo",
+      "closed": true,
+      "asNogo": false,
+      "coords": [
+        [
+          5.088925494917952,
+          1.6867920748564575
+        ],
+        [
+          5.086445807417952,
+          0.9420592623564605
+        ],
+        [
+          5.48732861991795,
+          0.9428858248564591
+        ],
+        [
+          5.484022369917948,
+          1.6843123873564583
+        ]
+      ]
+    },
+    {
+      "id": "e46",
+      "label": "clothes_rack",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          9.06819179467643,
+          4.403294478476317
+        ]
+      ],
+      "heading": 1.5707963267948966,
+      "role": "location",
+      "polygon": [
+        [
+          8.89362146051355,
+          5.482327272486883
+        ],
+        [
+          9.561523222232296,
+          5.482327272486883
+        ],
+        [
+          9.561523222232296,
+          4.902968952174382
+        ],
+        [
+          8.89362146051355,
+          4.902968952174382
+        ]
+      ],
+      "name": "clothes_rack",
+      "room": "bedroom",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "id": "e43",
+      "label": "table_4",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          5.655271732230457,
+          3.9880084526604715
+        ]
+      ],
+      "heading": -1.5649558477006076,
+      "role": "location",
+      "polygon": [
+        [
+          5.847966393041453,
+          3.5001113676980307
+        ],
+        [
+          5.413194518041454,
+          3.5001113676980307
+        ],
+        [
+          5.413194518041454,
+          3.0942691801980313
+        ],
+        [
+          5.847966393041453,
+          3.0942691801980313
+        ]
+      ],
+      "name": "table_4",
+      "room": "bedroom",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "type": "waypoint",
+      "label": "shelf_2",
+      "semType": "object",
+      "coords": [
+        [
+          1.2808127430221035,
+          2.9038900745113185
+        ]
+      ],
+      "closed": false,
+      "asNogo": false,
+      "heading": -1.5669722338316796,
+      "role": "location",
+      "polygon": [
+        [
+          0.7462786134522936,
+          2.406116168715924
+        ],
+        [
+          1.7315423613656016,
+          2.406116168715924
+        ],
+        [
+          1.7315423613656016,
+          1.996284573453318
+        ],
+        [
+          0.7462786134522936,
+          1.996284573453318
+        ]
+      ],
+      "name": "shelf_2",
+      "room": "laundry",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true,
+      "id": "e47"
+    },
+    {
+      "type": "waypoint",
+      "label": "trash_can_2",
+      "semType": "object",
+      "coords": [
+        [
+          1.9478217039968904,
+          2.856316032239265
+        ]
+      ],
+      "closed": false,
+      "asNogo": false,
+      "heading": -1.5679362128882384,
+      "role": "location",
+      "polygon": [
+        [
+          1.7774520633718893,
+          2.3465260142705144
+        ],
+        [
+          2.0899520633718893,
+          2.3465260142705144
+        ],
+        [
+          2.0899520633718893,
+          2.047151014270513
+        ],
+        [
+          1.7774520633718893,
+          2.047151014270513
+        ]
+      ],
+      "name": "trash_can_2",
+      "room": "laundry",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true,
+      "id": "e48"
+    },
+    {
+      "type": "waypoint",
+      "label": "trash_can",
+      "semType": "object",
+      "coords": [
+        [
+          8.512157867291574,
+          0.49193653484019073
+        ]
+      ],
+      "closed": false,
+      "asNogo": false,
+      "heading": 0,
+      "role": "location",
+      "polygon": [
+        [
+          9.051390158277904,
+          0.6393941586487859
+        ],
+        [
+          9.373773002486885,
+          0.6393941586487859
+        ],
+        [
+          9.373773002486885,
+          0.30833733656870876
+        ],
+        [
+          9.051390158277904,
+          0.30833733656870876
+        ]
+      ],
+      "name": "trash_can",
+      "room": "kitchen_room",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true,
+      "id": "e49"
+    },
+    {
+      "type": "waypoint",
+      "label": "table",
+      "semType": "object",
+      "coords": [
+        [
+          6.50476824783248,
+          -0.8988349114601988
+        ]
+      ],
+      "closed": false,
+      "asNogo": false,
+      "heading": 0,
+      "role": "location",
+      "polygon": [
+        [
+          7.174357487480574,
+          -0.6775324583790034
+        ],
+        [
+          7.755571831362992,
+          -0.6775324583790034
+        ],
+        [
+          7.755571831362992,
+          -1.1765355628306882
+        ],
+        [
+          7.174357487480574,
+          -1.1765355628306882
+        ]
+      ],
+      "name": "table",
+      "room": "kitchen_room",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true,
+      "id": "e50"
+    },
+    {
+      "type": "waypoint",
+      "label": "table_2",
+      "semType": "object",
+      "coords": [
+        [
+          4.571485814396006,
+          -2.209210771135197
+        ]
+      ],
+      "closed": false,
+      "asNogo": false,
+      "heading": -1.5664778673011486,
+      "role": "location",
+      "polygon": [
+        [
+          4.37718453370611,
+          -2.718259651749287
+        ],
+        [
+          4.84702500172369,
+          -2.718259651749287
+        ],
+        [
+          4.84702500172369,
+          -3.147621556368426
+        ],
+        [
+          4.37718453370611,
+          -3.147621556368426
+        ]
+      ],
+      "name": "table_2",
+      "room": "living_room",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true,
+      "id": "e51"
+    },
+    {
+      "type": "waypoint",
+      "label": "plant_pot",
+      "semType": "object",
+      "coords": [
+        [
+          0.9362104475454416,
+          -2.4014928102228126
+        ]
+      ],
+      "closed": false,
+      "asNogo": false,
+      "heading": -1.7894652726687925,
+      "role": "location",
+      "polygon": [
+        [
+          0.6272741466250302,
+          -2.887535326735991
+        ],
+        [
+          0.8700009607178067,
+          -2.887535326735991
+        ],
+        [
+          0.8700009607178067,
+          -3.1285996284034727
+        ],
+        [
+          0.6272741466250302,
+          -3.1285996284034727
+        ]
+      ],
+      "name": "plant_pot",
+      "room": "living_room",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true,
+      "id": "e52"
+    },
+    {
+      "id": "e1",
+      "label": "sofa",
+      "type": "waypoint",
+      "semType": "object",
+      "closed": false,
+      "asNogo": false,
+      "coords": [
+        [
+          2.748985000216514,
+          -1.344463290777977
+        ]
+      ],
+      "heading": -1.5653128932113036,
+      "role": "location",
+      "polygon": [
+        [
+          1.3630848794140498,
+          -2.2259078530260474
+        ],
+        [
+          3.888816598958684,
+          -2.2259078530260474
+        ],
+        [
+          3.888816598958684,
+          -3.301682474313578
+        ],
+        [
+          1.3630848794140498,
+          -3.301682474313578
+        ]
+      ],
+      "name": "sofa",
+      "room": "",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true
+    },
+    {
+      "type": "nogo",
+      "label": "no-go",
+      "coords": [
+        [
+          1.6857800771271272,
+          -2.500976376004088
+        ],
+        [
+          1.6924678897589693,
+          -3.1965088897156715
+        ],
+        [
+          3.8425996508962115,
+          -3.1931649833997486
+        ],
+        [
+          3.8425996508962115,
+          -2.4006591865264575
+        ],
+        [
+          1.6857800771271272,
+          -2.373907935999089
+        ]
+      ],
+      "closed": true,
+      "asNogo": false,
+      "id": "e53"
+    },
+    {
+      "type": "waypoint",
+      "label": "plant_pot_2",
+      "semType": "object",
+      "coords": [
+        [
+          8.898406742450849,
+          2.514552135146795
+        ]
+      ],
+      "closed": false,
+      "asNogo": false,
+      "heading": -0.5404195002705068,
+      "role": "location",
+      "polygon": [
+        [
+          9.342562547821395,
+          2.2156939995144587
+        ],
+        [
+          9.562429816066391,
+          2.2156939995144587
+        ],
+        [
+          9.562429816066391,
+          2.007298067003985
+        ],
+        [
+          9.342562547821395,
+          2.007298067003985
+        ]
+      ],
+      "name": "plant_pot_2",
+      "room": "bedroom",
+      "category": "",
+      "z": null,
+      "aliases": [],
+      "placement": false,
+      "barrier": false,
+      "radius": null,
+      "present": true,
+      "id": "e54"
+    }
+  ],
+  "vocab": {
+    "object_categories": {},
+    "names": [],
+    "gestures": {}
+  }
+}
